@@ -54,7 +54,7 @@ Witit - AI powered social media app that helps creators make more money by renti
 
 - **Tailwind CSS:** The user interface of Witit is designed using Tailwind CSS, a highly customizable CSS framework that enables rapid and responsive UI development.
 
-- **OpenAI API:** Witit leverages the OpenAI API to access state-of-the-art language models that power the core paraphrasing and grammar correction functionality.
+- **OpenAI API:** Witit leverages the OpenAI API to access state-of-the-art image models that Craft stunning images that captivate and inspire with advanced AI technology.
 
 - **Firebase:** Firebase is utilized in the application to provide instant notifications, ensuring real-time communication and updates for users.
 
